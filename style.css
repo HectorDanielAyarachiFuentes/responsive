@@ -46,7 +46,11 @@ body {
 .footer {
   grid-area: footer;
   background-color: #8c96a0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
+
 
 .grid-container {
   display: grid;
