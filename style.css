@@ -63,7 +63,7 @@ body {
   .grid-container {
     /* grid-template-columns: 200px auto;
     grid-template-rows: 100px 50px auto 100px;
-    grid-template-areas: 
+    grid-template-areas:
     "header  header"
     "navbar  navbar"
     "sidebar main"
@@ -87,3 +87,18 @@ body {
       200px    auto   200px;
   }
 }
+.fondo {
+	background-image: radial-gradient(circle at 77% 43%, rgba(168, 168, 168,0.04) 0%, rgba(168, 168, 168,0.04) 50%,rgba(10, 10, 10,0.04) 50%, rgba(10, 10, 10,0.04) 100%),radial-gradient(circle at 33% 65%, rgba(248, 248, 248,0.04) 0%, rgba(248, 248, 248,0.04) 50%,rgba(228, 228, 228,0.04) 50%, rgba(228, 228, 228,0.04) 100%),radial-gradient(circle at 92% 79%, rgba(152, 152, 152,0.04) 0%, rgba(152, 152, 152,0.04) 50%,rgba(28, 28, 28,0.04) 50%, rgba(28, 28, 28,0.04) 100%),radial-gradient(circle at 91% 13%, rgba(41, 41, 41,0.04) 0%, rgba(41, 41, 41,0.04) 50%,rgba(214, 214, 214,0.04) 50%, rgba(214, 214, 214,0.04) 100%),linear-gradient(90deg, rgb(11, 127, 96),rgb(139, 205, 191));
+}
+.estilosfooter {
+	background-image: repeating-linear-gradient(135deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(45deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(67.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(135deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(45deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(112.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(112.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(45deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(22.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(45deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(22.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(135deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(157.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(67.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),repeating-linear-gradient(67.5deg, hsla(264,0%,88%,0.03) 0px, hsla(264,0%,88%,0.03) 1px,transparent 1px, transparent 12px),linear-gradient(90deg, rgb(151, 26, 210),rgb(57, 199, 205));
+}
+.estilosnavbar {
+
+	background-image: radial-gradient(circle at 30% 94%, rgba(245, 245, 245,0.06) 0%, rgba(245, 245, 245,0.06) 50%,rgba(21, 21, 21,0.06) 50%, rgba(21, 21, 21,0.06) 100%),radial-gradient(circle at 59% 19%, rgba(248, 248, 248,0.06) 0%, rgba(248, 248, 248,0.06) 50%,rgba(87, 87, 87,0.06) 50%, rgba(87, 87, 87,0.06) 100%),radial-gradient(circle at 7% 11%, rgba(148, 148, 148,0.06) 0%, rgba(148, 148, 148,0.06) 50%,rgba(254, 254, 254,0.06) 50%, rgba(254, 254, 254,0.06) 100%),linear-gradient(90deg, rgb(189, 189, 189),rgb(205, 205, 205));
+}
+
+.estilosmain {
+	background-image: radial-gradient(circle at 27% 33%, rgba(193, 193, 193,0.04) 0%, rgba(193, 193, 193,0.04) 50%,rgba(77, 77, 77,0.04) 50%, rgba(77, 77, 77,0.04) 100%),radial-gradient(circle at 35% 8%, rgba(183, 183, 183,0.04) 0%, rgba(183, 183, 183,0.04) 50%,rgba(25, 25, 25,0.04) 50%, rgba(25, 25, 25,0.04) 100%),radial-gradient(circle at 93% 50%, rgba(218, 218, 218,0.04) 0%, rgba(218, 218, 218,0.04) 50%,rgba(127, 127, 127,0.04) 50%, rgba(127, 127, 127,0.04) 100%),linear-gradient(90deg, hsl(116,0%,99%),hsl(116,0%,99%));
+}
+
